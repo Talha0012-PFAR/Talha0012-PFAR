@@ -2,8 +2,9 @@
 <h3 align="center">Web Developer | AWS Cloud Support Engineer | PHP & WordPress Specialist</h3>
 
 <p align="center">
-  <img src="https://i.imgur.com/EqjTLw3.png" alt="GitHub Banner" style="max-width:100%;">
+  <img src="https://github.com/Talha0012-PFAR/Talha0012-PFAR/blob/main/banner.png.png?raw=true" alt="GitHub Banner" style="max-width:100%;">
 </p>
+
 
 ---
 
